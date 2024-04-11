@@ -18,11 +18,11 @@
 </section>
 
 
-      
 
-      
+  <br/><br/>
 
-        
+  <br/><br/>
+      
   
 </section>
 
@@ -40,7 +40,6 @@
     <h2>Gallery</h2>
     <div class="gallery">
       
-![Screenshot 2024-04-10 224631](https://github.com/fadarboye/CATs/assets/130584349/aa50959c-9c9d-4ba6-9732-eaf003d910ed)  ![dn10twre](https://github.com/fadarboye/CATs/assets/130584349/2901d5a6-ecfb-40d4-b392-91117072bf33)  
 
 
 </body>
