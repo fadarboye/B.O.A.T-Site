@@ -30,15 +30,15 @@ https://learn.microsoft.com/en-us/collections/o1njfe825p602p?source=docs
 
 1. Introduction to Git (31min), Introduction to GitHub (1hr 32min)
  
-2  Introduction to GitHub's products (23min), Introduction to GitHub Copilot (17min), Code with GitHub Codespaces(27min)
+2.  Introduction to GitHub's products (23min), Introduction to GitHub Copilot (17min), Code with GitHub Codespaces(27min)
 
-3  anage your work with GitHub Projects (36min), Communicate effectively on GitHub using Markdown (1hr 6min)
+3.  anage your work with GitHub Projects (36min), Communicate effectively on GitHub using Markdown (1hr 6min)
 
-4  Contribute to an open-source project on GitHub (27min), Manage an InnerSourceprogram by using GitHub (50min)
+4.  Contribute to an open-source project on GitHub (27min), Manage an InnerSourceprogram by using GitHub (50min)
 
-5  Maintain a secure repository by using GitHub best practices (35min), Introduction to GitHub administration (27min), Authenticate and authorize user identities on GitHub (33min)
+5.  Maintain a secure repository by using GitHub best practices (35min), Introduction to GitHub administration (27min), Authenticate and authorize user identities on GitHub (33min)
 
-6  Manage repository changes by using pull requests on GitHub (49min), Search and organize repository history by using GitHub (38min), Using GitHub Copilot with Python (22min)
+6.  Manage repository changes by using pull requests on GitHub (49min), Search and organize repository history by using GitHub (38min), Using GitHub Copilot with Python (22min)
 
   <br/><br/>
 
