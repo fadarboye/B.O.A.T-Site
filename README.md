@@ -81,5 +81,6 @@ https://learn.microsoft.com/en-us/training/paths/intro-to-kubernetes-on-azure/
 </body>
 </html>
 
+New
 
 [![Stargazers repo roster for @fadarboye/B.O.A.T-Site](https://reporoster.com/stars/fadarboye/B.O.A.T-Site)](https://github.com/fadarboye/B.O.A.T-Site/stargazers)
