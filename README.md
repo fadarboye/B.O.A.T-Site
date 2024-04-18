@@ -1,3 +1,4 @@
+
 ![Screenshot 2024-04-10 230154](https://github.com/fadarboye/CATs/assets/130584349/1c3a4ba6-60e5-475e-abea-8c0404da537f) 
 
 
@@ -83,4 +84,12 @@ https://learn.microsoft.com/en-us/training/paths/intro-to-kubernetes-on-azure/
 
 
 
+
 [![Stargazers repo roster for @fadarboye/B.O.A.T-Site](https://reporoster.com/stars/dark/fadarboye/B.O.A.T-Site)](https://github.com/fadarboye/B.O.A.T-Site/stargazers)
+=======
+[![Stargazers repo roster for @fadarboye/B.O.A.T-Site](https://reporoster.com/stars/fadarboye/B.O.A.T-Site)](https://github.com/fadarboye/B.O.A.T-Site/stargazers)
+=======
+![Screenshot 2024-04-10 230154](https://github.com/fadarboye/CATs/assets/130584349/1c3a4ba6-60e5-475e-abea-8c0404da537f) 
+
+
+>
