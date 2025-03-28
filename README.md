@@ -43,7 +43,7 @@ https://learn.microsoft.com/en-us/collections/o1njfe825p602p?source=docs
 
   <br/><br/>
 
-## Intro to Kubernetes on Azure.
+## Intro to Kubernetes on Azure
 
 https://learn.microsoft.com/en-us/training/paths/intro-to-kubernetes-on-azure/
  
